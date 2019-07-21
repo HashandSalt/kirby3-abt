@@ -13,15 +13,13 @@ To use this plugin, place all the files in `site/plugins/kirby3-abt/`.
 ### Composer
 
 ```
-composer require hashandsalt/kirby-abt
+composer require hashandsalt/kirby3-abt
 ```
 
 ## Usage
 
 There are no options. Simply make a sub-page to page A and give it a slug of B. It will be served to 50% of the visitors instead of page A.
 
-
-```
 
 ## Requirements
 
