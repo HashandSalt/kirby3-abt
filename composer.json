@@ -1,0 +1,17 @@
+{
+  "name": "hashandsalt/kirby3-abt",
+  "description": "Kirby 3 - Helper for A/B Testing",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "authors": [{
+    "name": "James Steel",
+    "email": "hello@hashandsalt.com"
+  }],
+
+  "require": {
+    "getkirby/composer-installer": "^1.1"
+  },
+  "config": {
+    "optimize-autoloader": true
+  }
+}
